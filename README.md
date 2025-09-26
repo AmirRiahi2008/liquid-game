@@ -23,7 +23,7 @@ Liquid Game is a fun and interactive puzzle game built with React. The game chal
 * **HTML5** – as the base structure of the web application
 
 ## Demo
-(Demo)[https://liquid-game.vercel.app/]
+[Demo](https://liquid-game.vercel.app/)
 ## Installation
 
 To set up this project locally, follow these steps:
