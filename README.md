@@ -1,16 +1,35 @@
-<<<<<<< HEAD
-# React + Vite
+# 🧪 Liquid Game By React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+Liquid Game is a fun and interactive puzzle game built with React. The game challenges players to sort liquids of different colors into separate bottles. It demonstrates React state management, event handling, and component-based design. This project is perfect for learning React concepts while creating an engaging web game.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+* ✅ Randomized bottle setup for replayability
+* ✅ Drag-and-drop or click-to-move mechanics for liquids
+* ✅ Game logic to check for completed bottles
+* ✅ Multiple empty bottles to facilitate sorting
+* ✅ Visual feedback for selected bottles
+* ✅ Win detection with alert notification
+* ✅ Fully responsive and interactive UI
+* ✅ Clean and modular React component structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# liquid-game
->>>>>>> 684b494d175319dbf5291f5e9cb21cd7bff7db3f
+## Technologies Used
+
+* **React.js** – for building interactive user interfaces
+* **JavaScript (ES6+)** – for game logic and state management
+* **CSS / Tailwind (optional)** – for styling the game board and bottles
+* **HTML5** – as the base structure of the web application
+
+## Demo
+(Demo)[https://liquid-game.vercel.app/]
+## Installation
+
+To set up this project locally, follow these steps:
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/AmirRiahi2008/liquid-game.git
+cd liquid-game
