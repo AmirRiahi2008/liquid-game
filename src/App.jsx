@@ -1,8 +1,6 @@
 import Main from "./components/Main"
-function App() {
+export default function App() {
   return (
     <Main/>
   )
 }
-
-export default App
